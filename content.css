@@ -1,0 +1,124 @@
+.navbar{
+    background-color: indigo;
+    font-family: sans-serif;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.logo a{
+    font-size: 40px;
+    font-weight: 400;
+    color: white;
+    
+}
+li{
+list-style: none;
+display: inline-block;
+}
+button{
+    background-color: white;
+    margin-right: 10px;
+    border-radius: 18px;
+    padding: 10px;
+    width: 90px;
+}
+button a{
+    color: indigo;
+    font-weight: bold;
+    font-size: 18px;
+}
+li a{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+*{
+    text-decoration: none;
+    
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+body{
+    background-color: black; 
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.warming{
+    color: white;
+    
+}
+.img{
+    width: 400px;
+    height: 400px;
+}
+.warming table{
+    margin: auto;
+    border: 0.5px solid grey;
+    border-radius: 50px;
+    background-color: rgba(76, 0, 130, 0.226);
+}
+.warming table td{
+    padding: 100px;
+}
+.human{
+    color: white;
+}
+.human table{
+    margin: auto;
+    border: 0.5px solid grey;
+    border-radius: 50px;
+    background-color: rgba(76, 0, 130, 0.226);
+    margin-top: 100px;
+}
+.human table td{
+    padding: 100px;
+}
+.img-1{
+    width: 400px;
+    height: 400px;
+}
+.help{
+    color: white;
+}
+.img-2{
+    width: 400px;
+    height: 400px; 
+}
+.help table{
+    margin: auto;
+    border: 0.5px solid grey;
+    border-radius: 50px;
+    background-color: rgba(76, 0, 130, 0.226);
+    margin-top: 100px;  
+}
+.help table td{
+    padding: 100px;
+}
+.me{
+    color: white;
+}
+.img-3{
+    width: 400px;
+    height: 400px;
+}
+.img-4{
+    width: 400px;
+    height: 400px;
+}
+.img-5{
+    width: 400px;
+    height: 400px;
+}
+.galary table{
+    margin: auto;
+}
+.galary table td{
+    padding: 100px;
+}

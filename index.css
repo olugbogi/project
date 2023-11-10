@@ -35,6 +35,7 @@ li a{
 *{
     text-decoration: none;
     
+    
 }
 .navdiv{
     display: flex;
@@ -44,6 +45,7 @@ li a{
 body{
     background-color: black; 
     font-family: 'Montserrat', sans-serif;
+     overflow-x: hidden ;
 }
 .hero{
     display: grid;
